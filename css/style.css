@@ -1,0 +1,41 @@
+header {
+	padding: 20px 0;
+	text-align: center;
+	background-color:#cbdbe4;
+}
+
+header img {
+	display: block;
+	margin: 20px auto 10px auto;
+}
+
+div.post {
+	margin: 20px auto 20px auto;
+	padding: 10px 20px 0px 20px;
+	min-width: 400px;
+	max-width: 800px;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
+
+.post p.date {
+	margin: 10px 50px 30px 0;
+	font-style: italic;
+	font-size: 12px;
+	color: gray;
+	text-indent: 0px;
+}
+
+.post p {
+	font-family: Verdana, serif;
+	line-height: 150%;
+	text-indent:20px;
+}
+
+.post a {
+	color:#37c8ab;
+}
+
+.post a:visited {
+	color:#d400aa;
+}
